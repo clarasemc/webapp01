@@ -25,7 +25,8 @@ choice = st.sidebar.selectbox("Menu de Opções",menu)
 st.sidebar.write("Texto Side Bar")
     
 if choice == "Texto_Colunas":       
-    st.subheader("Texto formatado em colunas")
+    st.subheader("olaaaaaaaaa")
+                
     st.write("Veja a seguir uma opção de formatação em colunas")    
     cols01 = st.columns(2)    
     cols01[0].write('Texto da Coluna 01')
